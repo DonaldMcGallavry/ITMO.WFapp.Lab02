@@ -1,0 +1,10 @@
+D:\CourseSamples\C#Dev\ITMO.WFapp.Lab02.FirstTask\ITMO.WFapp.Lab02.SecondTask\bin\Debug\ITMO.WFapp.Lab02.SecondTask.exe.config
+D:\CourseSamples\C#Dev\ITMO.WFapp.Lab02.FirstTask\ITMO.WFapp.Lab02.SecondTask\bin\Debug\ITMO.WFapp.Lab02.SecondTask.exe
+D:\CourseSamples\C#Dev\ITMO.WFapp.Lab02.FirstTask\ITMO.WFapp.Lab02.SecondTask\bin\Debug\ITMO.WFapp.Lab02.SecondTask.pdb
+D:\CourseSamples\C#Dev\ITMO.WFapp.Lab02.FirstTask\ITMO.WFapp.Lab02.SecondTask\obj\Debug\ITMO.WFapp.Lab02.SecondTask.csproj.AssemblyReference.cache
+D:\CourseSamples\C#Dev\ITMO.WFapp.Lab02.FirstTask\ITMO.WFapp.Lab02.SecondTask\obj\Debug\ITMO.WFapp.Lab02.SecondTask.Form1.resources
+D:\CourseSamples\C#Dev\ITMO.WFapp.Lab02.FirstTask\ITMO.WFapp.Lab02.SecondTask\obj\Debug\ITMO.WFapp.Lab02.SecondTask.Properties.Resources.resources
+D:\CourseSamples\C#Dev\ITMO.WFapp.Lab02.FirstTask\ITMO.WFapp.Lab02.SecondTask\obj\Debug\ITMO.WFapp.Lab02.SecondTask.csproj.GenerateResource.cache
+D:\CourseSamples\C#Dev\ITMO.WFapp.Lab02.FirstTask\ITMO.WFapp.Lab02.SecondTask\obj\Debug\ITMO.WFapp.Lab02.SecondTask.csproj.CoreCompileInputs.cache
+D:\CourseSamples\C#Dev\ITMO.WFapp.Lab02.FirstTask\ITMO.WFapp.Lab02.SecondTask\obj\Debug\ITMO.WFapp.Lab02.SecondTask.exe
+D:\CourseSamples\C#Dev\ITMO.WFapp.Lab02.FirstTask\ITMO.WFapp.Lab02.SecondTask\obj\Debug\ITMO.WFapp.Lab02.SecondTask.pdb
